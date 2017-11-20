@@ -58,7 +58,7 @@ String lastCall = "clear";
 
 uint8_t gHue = 0; // rotating "base color" used by many of the patterns
 
-
+/////
 
 Adafruit_NeoPixel strip = Adafruit_NeoPixel();
 CRGBPalette16 gPal;
